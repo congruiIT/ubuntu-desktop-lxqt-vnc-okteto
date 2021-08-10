@@ -16,4 +16,4 @@ spec:
       - image: dorowu/ubuntu-desktop-lxde-vnc:focal-lxqt
         name: ubuntu-desktop-lxde-vnc
         ports:
-        - containerPort: 80 443 8888 5212
+        - containerPort: 80
