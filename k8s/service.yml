@@ -11,7 +11,5 @@ spec:
     port: 80
     name: "ssl"
     port: 443
-    name: "bt"
-    port: 8888
   selector:
     app: ubuntu-desktop-lxde-vnc
